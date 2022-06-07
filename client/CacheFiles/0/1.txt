@@ -1,7 +1,0 @@
-{"srcUser":{"userId":0,"userName":"哆啦A梦"},"dstUser":1,"chatTime":"2022.06.07 00:49","chatData":"看到了"}
-{"srcUser":{"userId":0,"userName":"哆啦A梦"},"dstUser":1,"chatTime":"2022.06.07 00:49","chatData":"好兴奋哦"}
-{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":0,"chatTime":"2022.06.07 00:39","chatData":"再来一次"}
-{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":0,"chatTime":"2022.06.07 00:39","chatData":"ok"}
-{"srcUser":{"userId":0,"userName":"哆啦A梦"},"dstUser":1,"chatTime":"2022.06.07 19:19","chatData":"约吗"}
-{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":0,"chatTime":"2022.06.07 19:20","chatData":"滚"}
-{"srcUser":{"userId":0,"userName":"哆啦A梦"},"dstUser":1,"chatTime":"2022.06.07 19:20","chatData":"呃"}
