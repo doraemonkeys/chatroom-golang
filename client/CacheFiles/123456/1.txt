@@ -1,0 +1,8 @@
+{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":123456,"chatTime":"2022.06.07 17:46","chatData":"HELLO 不不不不"}
+{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":123456,"chatTime":"2022.06.07 17:46","chatData":"ye"}
+{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":123456,"chatTime":"2022.06.07 17:46","chatData":"如果你是"}
+{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":123456,"chatTime":"2022.06.07 17:46","chatData":"约吗"}
+{"srcUser":{"userId":123456,"userName":"你猜你猜你猜猜猜"},"dstUser":1,"chatTime":"2022.06.07 17:49","chatData":"约你妹"}
+{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":123456,"chatTime":"2022.06.07 17:50","chatData":"呃"}
+{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":123456,"chatTime":"2022.06.07 19:27","chatData":"小哥哥快来玩啊"}
+{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":123456,"chatTime":"2022.06.07 19:27","chatData":"呵呵"}

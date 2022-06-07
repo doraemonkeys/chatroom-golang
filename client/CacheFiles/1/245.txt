@@ -1,0 +1,1 @@
+{"srcUser":{"userId":1,"userName":"你妹妹的"},"dstUser":245,"chatTime":"2022.06.07 19:57","chatData":"555"}
