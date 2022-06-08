@@ -1,0 +1,8 @@
+/uploads/*
+/clinet/CacheFiles/*
+/bin/*
+!.gitkeep
+*.exe
+*.exe~
+*.txt
+*config/config.yaml
